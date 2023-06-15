@@ -1,4 +1,17 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://NikitaOrliak.github.io/Bang-Olufsen-landing-page/)
+# Landing page
+
+This is a Bang & Olufsen landing page created by me.
+
+Technologies that were used:
+- HTML
+- SCSS
+
+[DEMO LINK](https://NikitaOrliak.github.io/Bang-Olufsen-landing-page/)
+
+[FIGMA DESIGN](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=Y2cu0Y1RzA8xX6Hm-0)
+
+Additional launch instractions:
+- git clone https://github.com/NikitaOrliak/Bang-Olufsen-landing-page.git
+- npm install
+- npm start
+
