@@ -1,7 +1,21 @@
-@import "utils";
-@import "fonts";
-@import "typography";
+@import "./utils/variables";
+@import "./utils/mixins";
+@import "./helpers/container";
 
-body {
-  background: $c-gray;
-}
+@import "./blocks/header";
+@import "./blocks/icon";
+@import "./blocks/menu";
+@import "./blocks/nav";
+@import "./blocks/page";
+@import "./blocks/top-bar";
+
+@import "./blocks/section-title";
+@import "./blocks/main";
+@import "./blocks/product";
+@import "./blocks/recommended";
+
+@import "./blocks/brand-history";
+
+@import "./blocks/categories";
+
+@import "./blocks/contacts";
