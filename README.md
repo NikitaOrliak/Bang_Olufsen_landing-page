@@ -1,6 +1,4 @@
-# Landing page
-
-Bang & Olufsen landing page.
+# LBang & Olufsen landing page
 
 Technologies that were used:
 - HTML
