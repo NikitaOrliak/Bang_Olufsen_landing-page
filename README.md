@@ -1,6 +1,6 @@
 # Landing page
 
-This is a Bang & Olufsen landing page created by me.
+Bang & Olufsen landing page.
 
 Technologies that were used:
 - HTML
